@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sartal Vinhos</title>
+	<atom:link href="http://localhost/wordpress2/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Sartal vinhos de Alenquer</description>
+	<lastBuildDate>Wed, 14 Dec 2016 20:20:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>TESTE</title>
+		<link>./../testepost/index.html</link>
+		<comments>./../testepost/index.html#respond</comments>
+		<pubDate>Wed, 16 Nov 2016 12:56:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[TESTEPost]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=29</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<div><img class="alignnone size-full wp-image-43 aligncenter" src="./../wp-content/uploads/2016/11/SartalLogoVin6.png" alt="sartallogovin6" width="196" height="286" /></div>
+]]></content:encoded>
+			<wfw:commentRss>./../testepost/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>./../uncategorized/index.html</link>
+		<comments>./../uncategorized/index.html#comments</comments>
+		<pubDate>Sat, 17 Sep 2016 11:58:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://mono.packs.siteorigin.com/?p=1</guid>
+		<description><![CDATA[Welcome to SiteOrigin Site Packs. This is your first post. Edit or delete it, then start blogging!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to <a href="http://packs.siteorigin.com/">SiteOrigin Site Packs</a>. This is your first post. Edit or delete it, then start blogging!</p>
+]]></content:encoded>
+			<wfw:commentRss>./../uncategorized/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
